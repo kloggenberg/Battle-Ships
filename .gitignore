@@ -2,3 +2,4 @@
 .vscode/
 target/
 __pycache__
+weather_data.db
