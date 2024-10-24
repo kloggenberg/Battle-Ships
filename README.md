@@ -29,4 +29,5 @@ The Data Weather Pipeline is designed to collect, process, and analyze weather d
 ## Usage
 To run the pipeline:
 ```bash
-# Command to start the data pipeline
+python3 main.py
+```
